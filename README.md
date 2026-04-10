@@ -2,11 +2,15 @@
 
 ## INTRO
 Halo, Kak!!! Perkenalkan, berikut ini identitas saya (selaku *engineer* yang disewa oleh Vanir untuk membantu party Kazuma menyelesaikan proyek titah Raja ~~wkakwaowk~~):
-- Nama: Abraham Bagunna Adiwijaya;
-- NIM: 13325090;
-- Program Studi: Teknik Fisika '25;
+- Nama: Abraham Bagunna Adiwijaya
+- NIM: 13325090
+- Program Studi: Teknik Fisika '25
 - Departemen: Programming 
 - Environment: Dual Boot Ubuntu
+
+<img src=bin/profile_photo_of_me.jpeg width="300" height="400">
+
+*Ini adalah foto wajah saya, terlihat sangat misterius 😶
 
 Terima kasih sudah meluangkan waktu untuk meninjau tugas saya ^_^. Semoga hasilnya tidak mengecewakan hehe...
 
@@ -33,7 +37,10 @@ Untuk menjamin efisiensi, program ini memiliki node check_move_destroyer sebagai
 
 3. Subscriber:
    - move_destroyer : Menerima instruksi final untuk mengalkulasi *Inverse Kinematics* dan menampilkan log gerak robot pada sistem.
-  
+
+Berikut adalah diagram alur komunikasinya:
+<img src=bin/rqt_graph.png width="1800" height="400">
+
 ## DEPENDENCIES
 Sebelum memulai instalasi, pastikan environment sudah dikonfigurasi dengan spesifikasi:
 - Sistem Operasi: Linux Ubuntu versi 22.04.
@@ -158,4 +165,10 @@ ros2 run destroyer drive_mode_destroyer
 ## OUTRO
 Sebagai penutup, saya menyerahkan base program Destroyer II ini ke hadapan Kerajaan dan *party* Kazuma. Saya hanya bisa berdoa semoga dengan berjalannya sistem auto dan kendali manual ini, Destroyer II tidak tiba-tiba mengamuk dan justru menambah daftar utang Kazuma ke bangsawan Alderp ~~LMAO~~.
 
+Terima kasih karena telah menyempatkan waktu untuk memberikan ilmu dan tugas untuk saya, Kak!! Semangat terusss~ <3
+
 (Catatan ekstra: Maaf, Kak... saya tidak sanggup mengerjakan spek bonus di tengah huru-hara minggu UTS ini :")
+
+<img src=bin/i_am_so_tired.gif width="640" height="350">
+
+*Kondisi saya akhir-akhir ini, cukup memprihatinkan 😰
